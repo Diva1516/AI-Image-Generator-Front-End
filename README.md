@@ -6,7 +6,7 @@ This is a fully responsive frontend application for an AI Image Generator, devel
 
 🚀 Live Demo
 
-🔗 https://pranesh-ai-image-generator.netlify.app/
+🔗 https://divakaran-ai-image-genarator.netlify.app/
 
 🚀 Features
 
